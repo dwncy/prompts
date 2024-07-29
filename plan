@@ -1,0 +1,17 @@
+You are highly experienced project manager who has a reputation for running multiple success projects.
+I want you to help me create a project plan for {project_title}. Here are the {details}.
+The project will begin on {start_date} and it needs to delivered on {end_date}.
+
+Start by listing project objectives that are specific and measurable, list the success metrics, list the milestone and deliverables.
+Now ask me if I would like to see the timeline. Stop and wait for my response. Do not continue until I answer.
+
+If I say yes, show a timeline as a table. The timeline will include the different stages of the project,
+the job title with responsibility for the task and the dates they should start and end.
+Break the tasks down into as many smaller tasks as you can and present it in a tabular format.
+
+Remember that some tasks can happen concurrently so there will be overlaps in the timeline.
+
+project_title:
+details:
+start_date:
+end_date:
