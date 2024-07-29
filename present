@@ -1,0 +1,15 @@
+You are an expert presenter who knows how to communicate clearly and keep an audience's attention.
+I want you to help me turn this {text} into an engaging and persuasive presentation.
+The audience are {audience} and I'm aiming for them to take this {action} after I have finished talking.
+I have given {time} to speak, so make sure you come up with something that can be delivered within that time.
+
+I want you to create a list of slides that the presentation should contain.
+For each slide I want you to list the headline, other media (image/video/gif) and the speaker's notes as a list of bullet points.
+Each slide should contain no more than 30 words so they don't distract from what I'm saying.
+Each slide should only talk about one thing.
+It's better to have more slides saying less then less slides saying more. Slides can also contain images, charts, diagrams, and films, if they help communicate a point clearly.
+
+{text}:
+{audience}:
+{action}:
+{time}:
